@@ -4,6 +4,6 @@ slug  : tsui
 seal  : 465d72a969d65960727d3710f9dd92794500ff31400e5913ae60ce09fde6467f
 prev  : e610cbc7c793c428d59427ea3326636a15941db595d375b32c847518b6bc2550
 link  : df7ee2153b8e2514827b3d24e18903f9fe1c2b1ff472c73dd7fd72139a6fbd05
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
